@@ -4,10 +4,11 @@
   "description": "A simple Node.js function app",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "func start"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {}
+  "main": "src/{app.js,function/*.js}"
 }
