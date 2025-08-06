@@ -9,6 +9,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {},
   "main": "src/{app.js,function/*.js}"
 }
